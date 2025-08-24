@@ -22,12 +22,12 @@ Individual notebooks must include the version number in the first markdown cell.
 
 #### Format in first notebook cell for first release for semester
 
-    Version 0.2.0 
+> Version 0.2.0 
 
 #### Format in first notebook cell if changes required after release
 
-    [Version 0.2.1 - 2025-08-19](https://github.com/polsci/DIGI405-assignments/blob/main/CHANGELOG.md) - ensure filtering / grid search handled as expected   
-    Note: Search notebook for 0.2.1 to find changes if you want to apply to your notebook. 
+> [Version 0.2.1 - 2025-08-19](https://github.com/polsci/DIGI405-assignments/blob/main/CHANGELOG.md) - ensure filtering / grid search handled as expected   
+Note: Search notebook for 0.2.1 to find changes if you want to apply to your notebook. 
     
 #### Format for inline comments in notebook
 
