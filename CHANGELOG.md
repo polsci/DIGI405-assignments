@@ -1,5 +1,11 @@
 # Change log
 
+## [0.2.2] - pending release 2025-09-08 - probability labels
+
+## Fixed
+
+- ensure probability labels are correct regardless of the order of target classes
+
 ## [0.2.1] - 2025-08-19 - ensure filtering / grid search handling as expected
 
 ## Changed
