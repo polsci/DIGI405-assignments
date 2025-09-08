@@ -1,6 +1,14 @@
 # Change log
 
-## [0.2.2] - pending release 2025-09-08 - probability labels
+## [0.2.2] - 2025-09-08 - quality of life improvements, probability labels
+
+## Added
+
+- added cell to display misclassified article text
+
+## Changed
+
+- changed default path to load genre data-set direct from /srv/source-data/
 
 ## Fixed
 
