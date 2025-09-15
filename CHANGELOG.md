@@ -1,5 +1,11 @@
 # Change log
 
+## [0.2.3] - 2025-09-15 - metric ordering
+
+## Fixed
+
+- ensure classification metrics match label ordering
+
 ## [0.2.2] - 2025-09-08 - quality of life improvements, probability labels
 
 ## Added
