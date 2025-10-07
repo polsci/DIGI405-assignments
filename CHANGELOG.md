@@ -1,5 +1,12 @@
 # Change log
 
+## [0.2.4] - 2025-10-08 - optional functionality to run inference on augmented data or data from a CSV
+
+## Added
+
+- optional functionality to run inference on augmented data
+- optional functionality to run inference on data from a CSV
+
 ## [0.2.3] - 2025-09-15 - metric ordering
 
 ## Fixed
